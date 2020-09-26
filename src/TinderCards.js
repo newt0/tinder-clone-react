@@ -16,7 +16,6 @@ function TinderCards() {
     return () => {
       unsubscribe();
     };
-    
   }, [people]);
 
   return (
